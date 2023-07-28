@@ -1,0 +1,48 @@
+body {
+    background: url(contents/gif/1821656_75dc1.gif);
+    color: #fff;
+}
+
+.content {
+    width: 780px;
+    border: #fff lpx solid;
+    margin: auto;
+    text-align: center;
+}
+
+.pix {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    background-image: url(contents/gif/f3415ff0e7c07efd9e971bfd57b143ff.gif);
+    border:lime 10px solid;
+    border-style: outset;
+    border-left:blue 10px solid;
+    border-right:yellow 10px solid;
+}
+
+img{
+    border: black 5px solid;
+}
+
+h1 {
+    color:blueviolet;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    background-color: lime;
+}
+
+marquee {
+    color: lime;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: blueviolet;
+    
+}
+
+.pics img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
